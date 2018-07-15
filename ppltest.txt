@@ -1,0 +1,36 @@
+typedef int inch
+typedef inch aer
+int a,b
+int c
+float x,y
+float z
+int[4] q,r
+int[4] s
+t2* rt,po
+t1* yyy
+float* ty
+t1 aa,bb
+t2 cc
+struct t1
+{
+int a
+t2* c
+}
+struct t2
+{
+float a
+t1* c
+}
+struct t3
+{
+inch a
+t1* c
+}
+function teer[int* t, inch* l, int y] = [int* r, float y, int i]
+{
+	
+}
+function reer[int* a, int* b, int c] = [int* a, float b, int c]
+{
+	
+}

@@ -1,0 +1,31 @@
+	a	b	c	x	y	z	q	r	s	rt	po	yyy	ty	aa	bb	cc	teer	reer	
+a	T	T	T	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	
+b	T	T	T	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	
+c	T	T	T	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	
+x	F	F	F	T	T	T	F	F	F	F	F	F	F	F	F	F	F	F	
+y	F	F	F	T	T	T	F	F	F	F	F	F	F	F	F	F	F	F	
+z	F	F	F	T	T	T	F	F	F	F	F	F	F	F	F	F	F	F	
+q	F	F	F	F	F	F	T	T	T	F	F	F	F	F	F	F	F	F	
+r	F	F	F	F	F	F	T	T	T	F	F	F	F	F	F	F	F	F	
+s	F	F	F	F	F	F	T	T	T	F	F	F	F	F	F	F	F	F	
+rt	F	F	F	F	F	F	F	F	F	T	T	F	F	F	F	F	F	F	
+po	F	F	F	F	F	F	F	F	F	T	T	F	F	F	F	F	F	F	
+yyy	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F	F	
+ty	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	F	F	F	
+aa	F	F	F	F	F	F	F	F	F	F	F	F	F	T	T	F	F	F	
+bb	F	F	F	F	F	F	F	F	F	F	F	F	F	T	T	F	F	F	
+cc	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	F	F	
+teer	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	T	
+reer	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	F	T	T	
+a,b are Internal Name Equivalent
+x,y are Internal Name Equivalent
+q,r are Internal Name Equivalent
+rt,po are Internal Name Equivalent
+aa,bb are Internal Name Equivalent
+a and b are Name Equivalent
+a and c are Name Equivalent
+b and c are Name Equivalent
+x and y are Name Equivalent
+x and z are Name Equivalent
+y and z are Name Equivalent
+aa and bb are Name Equivalent
